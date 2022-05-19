@@ -28,7 +28,7 @@ You can randomly assign infrared intensity and polarized images for training and
 ```    
 
 ## Train & Test
-* The pretrained models are provided in the repo. 
+* The pretrained model is provided in the repo. 
 * After loading data according to the above directory, you can run `python train.py` and `python test.py` for training and testing respectively.
 
 We will add information about the paper later.
