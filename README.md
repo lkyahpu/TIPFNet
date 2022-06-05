@@ -1,4 +1,4 @@
-# TIDFNet
+# TIPFNet
 A Transformer-based Infrared Polarization Fusion Network
 
 ## Installation
